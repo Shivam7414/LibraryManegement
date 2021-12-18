@@ -1,0 +1,2 @@
+--Visual Studio 2017 and upper version must be required--
+After download project import LibraryVbDb.mdf and change connection string every form.

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MyNewLibraryProject
+</name>
+</assembly>
+<members>
+<member name="T:MyNewLibraryProject.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MyNewLibraryProject.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MyNewLibraryProject.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MyNewLibraryProject.My.Resources.Resources._0d0173e06b57b2f91611683b35500e47">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyNewLibraryProject.My.Resources.Resources._494_4942743_bender_rocap_book_logo_mama_baby_care_school">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyNewLibraryProject.My.Resources.Resources._57_Student">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyNewLibraryProject.My.Resources.Resources.download__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyNewLibraryProject.My.Resources.Resources.icons8_close_window">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyNewLibraryProject.My.Resources.Resources.icons8_close_window_100__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyNewLibraryProject.My.Resources.Resources.icons8_logout_rounded_left_100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyNewLibraryProject.My.Resources.Resources.icons8_user_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyNewLibraryProject.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyNewLibraryProject.My.Resources.Resources.images1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyNewLibraryProject.My.Resources.Resources.kisspng_computer_icons_human_resource_management_system_employee_computer_5b2206d2a64a94_0404841715289566266811">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyNewLibraryProject.My.Resources.Resources.person_logo_png_favpng_t6K2yfpW9qMuuBu9TNAQqxBi7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyNewLibraryProject.My.Resources.Resources.png_transparent_student_higher_education_study_skills_learning_products_people_logo_teacher">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyNewLibraryProject.My.Resources.Resources.return_book_flat_vector_modern_260nw_1595212009">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
